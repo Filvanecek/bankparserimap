@@ -1,5 +1,5 @@
 {
-    "name": "vipvrust/bankimapparser",
+    "name": "viptrust/bankimapparser",
     "type": "library",
     "description": "Parse emails from banks into usable information",
     "keywords": ["bank","parse","imap","email"],
