@@ -2,7 +2,7 @@
 
 namespace ImapBankParser;
 
-use ImapBankParser\Bank\Bank;
+use ImapBankParser\Banks\Bank;
 
 class Parser extends Bank
 {
