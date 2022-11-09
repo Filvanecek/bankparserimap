@@ -1,6 +1,6 @@
 <?php
 
-namespace ImapBankParser\Bank;
+namespace ImapBankParser\Banks;
 
 use Ddeboer\Imap\Message;
 use ImapBankParser\Banks\Rules;

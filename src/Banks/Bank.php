@@ -1,7 +1,7 @@
 <?php
 
 
-namespace ImapBankParser\Bank;
+namespace ImapBankParser\Banks;
 
 use ImapBankParser\Imap\Connection;
 
